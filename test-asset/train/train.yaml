@@ -57,7 +57,6 @@ entry: modeling_script_name
 environment:
   - key: test_env1
     value: 2010-10-10T16:09:00Z
-    value: test_value1
   - key: test_env2
     value: True
   - key: is_masking
