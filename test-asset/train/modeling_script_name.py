@@ -1,1 +1,1 @@
-print ("train.py")
+print ("model_script_name.py")
